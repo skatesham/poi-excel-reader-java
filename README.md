@@ -1,2 +1,2 @@
 # poi-excel-reader-java
-Application Java for read esel using Poi
+Application Java for read excel using Poi
